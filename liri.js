@@ -12,8 +12,6 @@ var spotify = new Spotify({
     secret: keys.spotify.secret
 });
 
-
-
 //// PREPARARING INPUT
 
 var input = process.argv;
@@ -26,18 +24,14 @@ for (i = 3; i < input.length; i++) {
 keyQuery = keyQuery.trim();
 
 
-// console.log(keyQuery);
-console.log("*******************");
-console.log("****** test32 ******");
-console.log("*******************");
-
-
-
-
 actions(command, keyQuery);
-console.log(command)
-console.log(keyQuery)
+
+
 function actions(command, keyQuery) {
+
+    logData("----" + command + ": " + keyQuery + '\r\n');
+    console.log("------------------------------------");
+
     switch (command) {
         case "concert-this":
             bandQuery(keyQuery);
@@ -70,15 +64,19 @@ function bandQuery(keyQuery) {
         // console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
         //  console.log(data); // Print the HTML for the Google homepage.
 
-        var events = JSON.parse(data);
-        console.log(events);
+        /// I have limited the number of events to 10
 
-        for (i = 0; i < 3; i++) {
-            console.log(events[i]);
-            console.log("---------------------------------------------");
-            console.log("Name of the venue: " + events[i].venue.name);
-            console.log("Venue location: " + events[i].venue.city + " (" + events[i].venue.country + ")");
-            console.log("Date of the Event: " + moment(events[i].datetime).format("MM/DD/YYYY"));
+        var events = JSON.parse(data);
+
+        for (i = 0; i < events.length; i++) {
+
+            // console.log("Name of the venue: " + events[i].venue.name);
+            // console.log("Venue location: " + events[i].venue.city + " (" + events[i].venue.country + ")");
+            // console.log("Date of the Event: " + moment(events[i].datetime).format("MM/DD/YYYY"));
+
+            console.log("Name of the venue: " + events[i].venue.name + '\r\n' + "Venue location: " + events[i].venue.city + " (" + events[i].venue.country + ")" + '\r\n' + "Date of the Event: " + moment(events[i].datetime).format("MM/DD/YYYY") + '\r\n');
+            logData("Name of the venue: " + events[i].venue.name + '\r\n' + "Venue location: " + events[i].venue.city + " (" + events[i].venue.country + ")" + '\r\n' + "Date of the Event: " + moment(events[i].datetime).format("MM/DD/YYYY") + '\r\n');
+    
         }
     });
 }
@@ -102,10 +100,15 @@ function spotifyQuery(keyQuery) {
             artistsName = artistsName.concat('"' + data.tracks.items[0].artists[i].name + '" ');
         }
 
-        console.log("artists name is: " + artistsName);
-        console.log("song name is: " + data.tracks.items[0].name);
-        console.log("preview_url: " + data.tracks.items[0].preview_url);
-        console.log("album name is: " + data.tracks.items[0].album.name);
+        // console.log("artists name is: " + artistsName);
+        // console.log("song name is: " + data.tracks.items[0].name);
+        // console.log("preview_url: " + data.tracks.items[0].preview_url);
+        // console.log("album name is: " + data.tracks.items[0].album.name);
+
+        console.log("artists name is: " + artistsName + '\r\n' + "song name is: " + data.tracks.items[0].name + '\r\n' + "preview_url: " + data.tracks.items[0].preview_url + '\r\n' + "album name is: " + data.tracks.items[0].album.name + '\r\n');
+
+        logData("artists name is: " + artistsName + '\r\n' + "song name is: " + data.tracks.items[0].name + '\r\n' + "preview_url: " + data.tracks.items[0].preview_url + '\r\n' + "album name is: " + data.tracks.items[0].album.name + '\r\n');
+  
 
     });
 
@@ -128,40 +131,50 @@ function movieQuery(keyQuery) {
 
 
         var movie = JSON.parse(data);
+        var rottemValue = "no info";
+        console.log(movie.Ratings);
+        console.log("******");
 
-        console.log("* Title of the movie: " + movie.Title);
-        console.log("* Year the movie came out: " + movie.Year);
-        console.log("* IMDB Rating of the movie: " + movie.imdbRating);
-        console.log("* Rotten Tomatoes Rating of the movie: PENDIENTE");
-        console.log("* Country where the movie was produced: " + movie.Country);
-        console.log("* Language of the movie: " + movie.Language);
-        console.log("* Plot of the movie: " + movie.Plot);
-        console.log("* Actors in the movie: " + movie.Actors);
+        if (movie.Ratings) {
+
+            for (i = 0; i < movie.Ratings.length; i++) {
+                if (movie.Ratings[i].Source === 'Rotten Tomatoes') {
+                    rottemValue = movie.Ratings[i].Value;
+                }
+            }
+
+        }
+    
+        // console.log("* Title of the movie: " + movie.Title);
+        // console.log("* Year the movie came out: " + movie.Year);
+        // // console.log("* IMDB Rating of the movie: " + movie.imdbRating);
+        // console.log("* Rotten Tomatoes Rating of the movie: " + rottemValue);
+        // console.log("* Country where the movie was produced: " + movie.Country);
+        // console.log("* Language of the movie: " + movie.Language);
+        // console.log("* Plot of the movie: " + movie.Plot);
+        // console.log("* Actors in the movie: " + movie.Actors);
+        
+        console.log("* Title of the movie: " + movie.Title + '\r\n' + "* Year the movie came out: " + movie.Year + '\r\n' + "* IMDB Rating of the movie: " + movie.imdbRating + '\r\n' + "* Rotten Tomatoes Rating of the movie: " + rottemValue + '\r\n' + "* Country where the movie was produced: " + movie.Country + '\r\n' + "* Language of the movie: " + movie.Language + '\r\n' + "* Plot of the movie: " + movie.Plot + '\r\n' + "* Actors in the movie: " + movie.Actors + '\r\n');
+
+        logData("* Title of the movie: " + movie.Title + '\r\n' + "* Year the movie came out: " + movie.Year + '\r\n' + "* IMDB Rating of the movie: " + movie.imdbRating + '\r\n' + "* Rotten Tomatoes Rating of the movie: " + rottemValue + '\r\n' + "* Country where the movie was produced: " + movie.Country + '\r\n' + "* Language of the movie: " + movie.Language + '\r\n' + "* Plot of the movie: " + movie.Plot + '\r\n' + "* Actors in the movie: " + movie.Actors + '\r\n');
+      
     })
 
 };
-
-
 
 function randomQuery(keyQuery) {
 
     fs.readFile('random.txt', 'utf8', function (err, contents) {
 
         line = contents.split(",");
-        console.log(line);
-        console.log(line[0]);
-        console.log(line[1]);
-        // command = actions[0];
-        // keyQuery = actions[1];
-        
         actions(line[0], line[1]);
 
     });
 
 }
-
-    // fs.appendFile('quotes.txt', text,  function (err) {
-    //     console.log("quote added!");
-
-    // })
+function logData(text) {
+    fs.appendFile('log.txt', text, 'utf8', function (err) {
+        return;
+    })
+}
 
