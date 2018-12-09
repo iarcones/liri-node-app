@@ -70,11 +70,8 @@ function bandQuery(keyQuery) {
 
         for (i = 0; i < events.length; i++) {
 
-            // console.log("Name of the venue: " + events[i].venue.name);
-            // console.log("Venue location: " + events[i].venue.city + " (" + events[i].venue.country + ")");
-            // console.log("Date of the Event: " + moment(events[i].datetime).format("MM/DD/YYYY"));
-
             console.log("Name of the venue: " + events[i].venue.name + '\r\n' + "Venue location: " + events[i].venue.city + " (" + events[i].venue.country + ")" + '\r\n' + "Date of the Event: " + moment(events[i].datetime).format("MM/DD/YYYY") + '\r\n');
+
             logData("Name of the venue: " + events[i].venue.name + '\r\n' + "Venue location: " + events[i].venue.city + " (" + events[i].venue.country + ")" + '\r\n' + "Date of the Event: " + moment(events[i].datetime).format("MM/DD/YYYY") + '\r\n');
     
         }
@@ -100,16 +97,10 @@ function spotifyQuery(keyQuery) {
             artistsName = artistsName.concat('"' + data.tracks.items[0].artists[i].name + '" ');
         }
 
-        // console.log("artists name is: " + artistsName);
-        // console.log("song name is: " + data.tracks.items[0].name);
-        // console.log("preview_url: " + data.tracks.items[0].preview_url);
-        // console.log("album name is: " + data.tracks.items[0].album.name);
-
         console.log("artists name is: " + artistsName + '\r\n' + "song name is: " + data.tracks.items[0].name + '\r\n' + "preview_url: " + data.tracks.items[0].preview_url + '\r\n' + "album name is: " + data.tracks.items[0].album.name + '\r\n');
 
         logData("artists name is: " + artistsName + '\r\n' + "song name is: " + data.tracks.items[0].name + '\r\n' + "preview_url: " + data.tracks.items[0].preview_url + '\r\n' + "album name is: " + data.tracks.items[0].album.name + '\r\n');
   
-
     });
 
 }
@@ -132,8 +123,6 @@ function movieQuery(keyQuery) {
 
         var movie = JSON.parse(data);
         var rottemValue = "no info";
-        console.log(movie.Ratings);
-        console.log("******");
 
         if (movie.Ratings) {
 
@@ -144,15 +133,6 @@ function movieQuery(keyQuery) {
             }
 
         }
-    
-        // console.log("* Title of the movie: " + movie.Title);
-        // console.log("* Year the movie came out: " + movie.Year);
-        // // console.log("* IMDB Rating of the movie: " + movie.imdbRating);
-        // console.log("* Rotten Tomatoes Rating of the movie: " + rottemValue);
-        // console.log("* Country where the movie was produced: " + movie.Country);
-        // console.log("* Language of the movie: " + movie.Language);
-        // console.log("* Plot of the movie: " + movie.Plot);
-        // console.log("* Actors in the movie: " + movie.Actors);
         
         console.log("* Title of the movie: " + movie.Title + '\r\n' + "* Year the movie came out: " + movie.Year + '\r\n' + "* IMDB Rating of the movie: " + movie.imdbRating + '\r\n' + "* Rotten Tomatoes Rating of the movie: " + rottemValue + '\r\n' + "* Country where the movie was produced: " + movie.Country + '\r\n' + "* Language of the movie: " + movie.Language + '\r\n' + "* Plot of the movie: " + movie.Plot + '\r\n' + "* Actors in the movie: " + movie.Actors + '\r\n');
 
