@@ -1,9 +1,13 @@
 require("dotenv").config();
 
+
+var request = require('request');
+var moment = require("moment");
+
+
 //spotify config
 var Spotify = require('node-spotify-api');
 var keys = require("./keys.js");
-// var spotify = new Spotify(keys.spotify);
 var spotify = new Spotify({
     id: keys.spotify.id,
     secret: keys.spotify.secret
@@ -11,20 +15,21 @@ var spotify = new Spotify({
 
 
 
-//// PREPARARIN INPUT
+//// PREPARARING INPUT
 
 var input = process.argv;
 var command = process.argv[2];
-var query = ""
+var keyQuery = ""
 for (i = 3; i < input.length; i++) {
 
-    query = query.concat(input[i] + " ");
+    keyQuery = keyQuery.concat(input[i] + " ");
 }
-query = query.trim();
+keyQuery = keyQuery.trim();
 
 console.log("*******************");
+console.log(keyQuery);
 console.log("*******************");
-console.log("****** test11 ******");
+console.log("****** test31 ******");
 console.log("*******************");
 console.log("*******************");
 
@@ -32,32 +37,51 @@ console.log("*******************");
 
 switch (command) {
     case "concert-this":
-        bandQuery(query);
+        bandQuery(keyQuery);
         break;
     case "spotify-this-song":
-    sportifyQuery(query)
+        sportifyQuery(keyQuery)
         break;
     case "movie-this":
-    movieQuery(query)
+        movieQuery(keyQuery)
         break;
     case "do-what-it-says":
-    whatever(query)
+        whatever(keyQuery)
         break;
     default:
         console.log("please tell me what you want");
 }
 
-function sportifyQuery(query) {
+function bandQuery(keyQuery) {
+
+    var query = "https://rest.bandsintown.com/artists/" + keyQuery + "/events?app_id=codingbootcamp"
+
+    request(query, function (error, response, data) {
+        console.log('error:', error); // Print the error if one occurred
+        console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
+        //  console.log(data); // Print the HTML for the Google homepage.
+      
+        var events = JSON.parse(data);
+        console.log(events);
+    });
+
+    // Name of the venue
+    // Venue location
+    // Date of the Event (use moment to format this as "MM/DD/YYYY")
+}
+
+
+function sportifyQuery(keyQuery) {
 
     spotify.search({
         type: 'track',
-        query: query,
+        query: keyQuery,
         limit: 1
     }, function (err, data) {
         if (err) {
             console.log('The song has not been found, enjoy this one');
-            query = "Ace of Base  The Sign"
-            sportifyQuery(query);
+            keyQuery = "Ace of Base  The Sign"
+            sportifyQuery(keyQuery);
             return;
         }
 
@@ -75,3 +99,35 @@ function sportifyQuery(query) {
     });
 
 }
+
+function movieQuery(keyQuery) {
+
+    var query = "http://www.omdbapi.com/?t=" + keyQuery + "&type=movie&&apikey=trilogy"
+
+    request(query, function (error, response, data) {
+
+        // if (!error && response.statusCode) {
+
+            // console.log('error:', error);
+            // keyQuery = "Mr.+Nobody.";
+            // console.log("If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/ It's on Netflix!");
+            // movieQuery(keyQuery);
+            // return;
+        // }
+        // else {
+            var movie = JSON.parse(data);
+
+            console.log(movie)
+            console.log("* Title of the movie: " + movie.Title);
+            console.log("* Year the movie came out: " + movie.Year);
+            console.log("* IMDB Rating of the movie: " + movie.imdbRating);
+            console.log("* Rotten Tomatoes Rating of the movie: PENDIENTE");
+            console.log("* Country where the movie was produced: " + movie.Country);
+            console.log("* Language of the movie: " + movie.Language);
+            console.log("* Plot of the movie: " + movie.Plot);
+            console.log("* Actors in the movie: " + movie.Actors);
+            })
+
+    };
+
+
