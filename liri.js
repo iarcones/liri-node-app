@@ -23,6 +23,7 @@ for (i = 3; i < input.length; i++) {
 }
 keyQuery = keyQuery.trim();
 
+var defaultMovie = false;
 
 actions(command, keyQuery);
 
@@ -41,7 +42,7 @@ function actions(command, keyQuery) {
             spotifyQuery(keyQuery)
             break;
         case "movie-this":
-            if (keyQuery === "") { keyQuery = "Mr.+Nobody" }
+            if (keyQuery === "") { keyQuery = "Mr.+Nobody"; defaultMovie = true}
             movieQuery(keyQuery)
             break;
         case "do-what-it-says":
@@ -58,22 +59,19 @@ function bandQuery(keyQuery) {
 
     request(query, function (error, response, data) {
 
-        /////// PENDING CONTROL ERRORS
+        if (!error && response.statusCode === 200) {
 
-        // console.log('error:', error); // Print the error if one occurred
-        // console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
-        //  console.log(data); // Print the HTML for the Google homepage.
+            var events = JSON.parse(data);
 
-        /// I have limited the number of events to 10
+            for (i = 0; i < events.length; i++) {
 
-        var events = JSON.parse(data);
+                textLog = "Name of the venue: " + events[i].venue.name + '\r\n' + "Venue location: " + events[i].venue.city + " (" + events[i].venue.country + ")" + '\r\n' + "Date of the Event: " + moment(events[i].datetime).format("MM/DD/YYYY") + "\r\n\r\n";
 
-        for (i = 0; i < events.length; i++) {
-
-            console.log("Name of the venue: " + events[i].venue.name + '\r\n' + "Venue location: " + events[i].venue.city + " (" + events[i].venue.country + ")" + '\r\n' + "Date of the Event: " + moment(events[i].datetime).format("MM/DD/YYYY") + '\r\n');
-
-            logData("Name of the venue: " + events[i].venue.name + '\r\n' + "Venue location: " + events[i].venue.city + " (" + events[i].venue.country + ")" + '\r\n' + "Date of the Event: " + moment(events[i].datetime).format("MM/DD/YYYY") + '\r\n');
-    
+                console.log(textLog);
+                logData(textLog);
+            }
+        } else {
+            console.log('The artist / band has not been found');
         }
     });
 }
@@ -87,7 +85,7 @@ function spotifyQuery(keyQuery) {
         limit: 1
     }, function (err, data) {
         if (err) {
-            console.log('The song has not been found, enjoy this one');
+            console.log('The song has not been found');
             return;
         }
 
@@ -97,10 +95,11 @@ function spotifyQuery(keyQuery) {
             artistsName = artistsName.concat('"' + data.tracks.items[0].artists[i].name + '" ');
         }
 
-        console.log("artists name is: " + artistsName + '\r\n' + "song name is: " + data.tracks.items[0].name + '\r\n' + "preview_url: " + data.tracks.items[0].preview_url + '\r\n' + "album name is: " + data.tracks.items[0].album.name + '\r\n');
+        textLog = "artists name is: " + artistsName + '\r\n' + "song name is: " + data.tracks.items[0].name + '\r\n' + "preview_url: " + data.tracks.items[0].preview_url + '\r\n' + "album name is: " + data.tracks.items[0].album.name + "\r\n\r\n";
 
-        logData("artists name is: " + artistsName + '\r\n' + "song name is: " + data.tracks.items[0].name + '\r\n' + "preview_url: " + data.tracks.items[0].preview_url + '\r\n' + "album name is: " + data.tracks.items[0].album.name + '\r\n');
-  
+        console.log(textLog);
+        logData(textLog);
+
     });
 
 }
@@ -111,35 +110,37 @@ function movieQuery(keyQuery) {
 
     request(query, function (error, response, data) {
 
-        /////// PENDING CONTROL ERRORS
+        if (!error && response.statusCode === 200) {
+            var movie = JSON.parse(data);
+            var rottemValue = "no info";
 
-        // console.log('error:', error); // Print the error if one occurred
-        // console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
-        //  console.log(data); // Print the HTML for the Google homepage.
+            if (movie.Ratings) {
 
-        //// display more info in case keyQuery was "" and I am looking for Mr.Nobody
-        // console.log("If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/ It's on Netflix!");
-
-
-        var movie = JSON.parse(data);
-        var rottemValue = "no info";
-
-        if (movie.Ratings) {
-
-            for (i = 0; i < movie.Ratings.length; i++) {
-                if (movie.Ratings[i].Source === 'Rotten Tomatoes') {
-                    rottemValue = movie.Ratings[i].Value;
+                for (i = 0; i < movie.Ratings.length; i++) {
+                    if (movie.Ratings[i].Source === 'Rotten Tomatoes') {
+                        rottemValue = movie.Ratings[i].Value;
+                    }
                 }
             }
 
+            if (defaultMovie){
+                textLog = "If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/" + "\r\n" + "It's on Netflix!" + "\r\n\r\n" 
+            }
+            else{
+                textLog = "";
+            }
+    
+            defaultMovie = false;
+
+            textLog = textLog.concat("* Title of the movie: " + movie.Title + '\r\n' + "* Year the movie came out: " + movie.Year + '\r\n' + "* IMDB Rating of the movie: " + movie.imdbRating + '\r\n' + "* Rotten Tomatoes Rating of the movie: " + rottemValue + '\r\n' + "* Country where the movie was produced: " + movie.Country + '\r\n' + "* Language of the movie: " + movie.Language + '\r\n' + "* Plot of the movie: " + movie.Plot + '\r\n' + "* Actors in the movie: " + movie.Actors + "\r\n\r\n")
+            
+            console.log(textLog);
+            logData(textLog);
+
+        } else {
+            console.log(error)
         }
-        
-        console.log("* Title of the movie: " + movie.Title + '\r\n' + "* Year the movie came out: " + movie.Year + '\r\n' + "* IMDB Rating of the movie: " + movie.imdbRating + '\r\n' + "* Rotten Tomatoes Rating of the movie: " + rottemValue + '\r\n' + "* Country where the movie was produced: " + movie.Country + '\r\n' + "* Language of the movie: " + movie.Language + '\r\n' + "* Plot of the movie: " + movie.Plot + '\r\n' + "* Actors in the movie: " + movie.Actors + '\r\n');
-
-        logData("* Title of the movie: " + movie.Title + '\r\n' + "* Year the movie came out: " + movie.Year + '\r\n' + "* IMDB Rating of the movie: " + movie.imdbRating + '\r\n' + "* Rotten Tomatoes Rating of the movie: " + rottemValue + '\r\n' + "* Country where the movie was produced: " + movie.Country + '\r\n' + "* Language of the movie: " + movie.Language + '\r\n' + "* Plot of the movie: " + movie.Plot + '\r\n' + "* Actors in the movie: " + movie.Actors + '\r\n');
-      
     })
-
 };
 
 function randomQuery(keyQuery) {
@@ -150,8 +151,8 @@ function randomQuery(keyQuery) {
         actions(line[0], line[1]);
 
     });
-
 }
+
 function logData(text) {
     fs.appendFile('log.txt', text, 'utf8', function (err) {
         return;
