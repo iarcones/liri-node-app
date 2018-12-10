@@ -5,9 +5,15 @@ LIRI is a Node Application based on commands that offers info about concerts, mo
 
 #### These instructions will get you a copy of the project up and running on your local machine.
 
-1. Copy to your folder LIRI.js random.txt gitignore keys.js package.json .env
-2. run nmp install for request
-3. Replace the values into the .env file with your API keys (no quotes) once you have them
+1. Copy to your folder liri.js, random.txt, gitignore, keys.js, package.json
+2. Run nmp install for request
+3. Create a .env file with this format
+<p>
+  <img src="Screen Shot 1.png" width="350" title="hover text">
+  <img src="Screen Shot 2018-12-03 at 1.22.26 PM.png" width="350">
+</p> 
+
+Replace the values into the .env file with your API keys (no quotes) once you have them.
 
 #### Go to npmjs for info to install:
 
@@ -28,7 +34,7 @@ LIRI is a Node Application based on commands that offers info about concerts, mo
 - Html
 - Nodejs
 - Javascript
-- npm packages: **moment** to formatting dates, **request** to to grab data from the OMDB and Bandsintown API,s through simple http / https calls, **dotenv** to store the Spotify API keys and keep the configuration in the environment separate from code.
+- Npmjs packages: **moment** to formatting dates, **request** to to grab data from the OMDB and Bandsintown API,s through simple http / https calls, **dotenv** to store the Spotify API keys and keep the configuration in the environment separate from code.
 
 ## How does LIRI work?
 LIRI is a basic bot, it works based in prefixed commands:
