@@ -10,7 +10,6 @@ LIRI is a Node Application based on commands that offers info about concerts, mo
 3. Create a .env file with this format
 <p>
   <img src="Screen Shot 1.png" width="350" title="hover text">
-  <img src="Screen Shot 2018-12-03 at 1.22.26 PM.png" width="350">
 </p> 
 
 Replace the values into the .env file with your API keys (no quotes) once you have them.
