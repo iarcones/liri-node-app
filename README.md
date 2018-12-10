@@ -44,7 +44,7 @@ LIRI is a basic bot, it works based in prefixed commands:
 node LIRI.js concert-this "artist/band name here"
 
 Then: LIRI will search through the Bands in Town Artist Events API and it will show all the events: 
-..*
+
 - Name of the venue
 - Venue location
 - Date of the Event (use moment to format this as "MM/DD/YYYY")
@@ -54,7 +54,7 @@ Then: LIRI will search through the Bands in Town Artist Events API and it will s
 Execute: node liri.js spotify-this-song "song name here"
 
 Then: LIRI will search in Spotify using the node-spotify-api package in order to retrieve song information from the Spotify API and it will show:
-..*
+
 - Artist(s)
 - The song's name
 - A preview link of the song from Spotify
@@ -65,7 +65,7 @@ Then: LIRI will search in Spotify using the node-spotify-api package in order to
 Execute: node liri.js movie-this "movie name here"
 
 Then: LIRI will search in OMDB using the request package in order to retrieve movie information from the OMDB API and it will show:
-..*
+
 - Title of the movie.
 - Year the movie came out.
 - IMDB Rating of the movie.
