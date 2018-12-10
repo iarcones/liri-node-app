@@ -4,6 +4,8 @@ var fs = require('fs');
 var request = require('request');
 var moment = require("moment");
 
+var inquirer = require("inquirer");
+
 //spotify config
 var Spotify = require('node-spotify-api');
 var keys = require("./keys.js");
@@ -12,47 +14,70 @@ var spotify = new Spotify({
     secret: keys.spotify.secret
 });
 
-//// PREPARARING INPUT
-
-var input = process.argv;
-var command = process.argv[2];
-var keyQuery = ""
-
-for (i = 3; i < input.length; i++) {
-
-    keyQuery = keyQuery.concat(input[i] + " ");
-}
-keyQuery = keyQuery.trim();
-
+var command = "";
+var keyQuery = "";
 var defaultMovie = false;
 
-actions(command, keyQuery);
+
+console.log("Hi, I am Liri, what can I do for you?, I can look for concerts, movies, songs...");
+
+menu();
+
+function menu(){
+inquirer
+    .prompt([
+        {
+            type: "list",
+            message: "what do you want?",
+            choices: ["Looking for concerts", "Info about a movie", "spotify-this-song", "Surprise me", "I don't need anything now"],
+            name: "command"
+        },
+        {
+            type: "input",
+            message: "Give me more info or just click return",
+            name: "keyQuery"
+        }
+    ])
+    .then(function(inquirerResponse) {
+
+        command = inquirerResponse.command;
+        keyQuery = inquirerResponse.keyQuery;
+        
+        actions(command, keyQuery);
+
+      });
+    }
 
 
 function actions(command, keyQuery) {
 
     logData("----" + command + ": " + keyQuery + '\r\n');
-    console.log("------------------------------------");
+    console.log('\r\n' + "------------------------------------" + '\r\n');
 
     switch (command) {
-        case "concert-this":
+        case "Looking for concerts":
             bandQuery(keyQuery);
             break;
         case "spotify-this-song":
             if (keyQuery === "") { keyQuery = "Ace of Base The Sign" }
             spotifyQuery(keyQuery)
             break;
-        case "movie-this":
+        case "Info about a movie":
             if (keyQuery === "") { keyQuery = "Mr.+Nobody"; defaultMovie = true}
             movieQuery(keyQuery)
             break;
-        case "do-what-it-says":
+        case "Surprise me":
             randomQuery(keyQuery)
             break;
+        case "I don't need anything now":
+            console.log("hope to see you soon, bye");
+            process.exit();
         default:
             console.log("please tell me what you want");
     }
 }
+
+
 
 function bandQuery(keyQuery) {
 
@@ -149,7 +174,9 @@ function randomQuery(keyQuery) {
     fs.readFile('random.txt', 'utf8', function (err, contents) {
 
         line = contents.split(",");
+        
         actions(line[0], line[1]);
+
 
     });
 }
@@ -158,5 +185,7 @@ function logData(text) {
     fs.appendFile('log.txt', text, 'utf8', function (err) {
         return;
     })
+
+    menu();
 }
 

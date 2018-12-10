@@ -377,3 +377,685 @@ album name is: The Sign (US Album) [Remastered]
 
 ----spotify-this-song: fagdafgah
 ----undefined: 
+----Looking for concerts: Shawn Mendes
+----Looking for concerts: Shawn Mendes
+Name of the venue: Ziggo Dome
+Venue location: Nieuw-amsterdam (Netherlands)
+Date of the Event: 03/07/2019
+Name of the venue: Ziggo Dome
+Venue location: Nieuw-amsterdam (Netherlands)
+Date of the Event: 03/08/2019
+Name of the venue: Antwerps Sportpaleis
+Venue location: Antwerp (Belgium)
+Date of the Event: 03/10/2019
+Name of the venue: Mercedes-Benz Arena
+Venue location: Berlin-friedrichshain (Germany)
+Date of the Event: 03/11/2019
+Name of the venue: Oslo Spektrum Arena
+Venue location: Oslo (Norway)
+Date of the Event: 03/13/2019
+Name of the venue: Ericsson Globe
+Venue location: Stockholm (Sweden)
+Date of the Event: 03/15/2019
+Name of the venue: Royal Arena
+Venue location: Copenhagen (Denmark)
+Date of the Event: 03/16/2019
+Name of the venue: Lanxess Arena
+Venue location: Köln (Germany)
+Date of the Event: 03/18/2019
+Name of the venue: Accorhotels Arena
+Venue location: Paris (France)
+Date of the Event: 03/19/2019
+Name of the venue: Olympiahalle
+Venue location: Munich (Germany)
+Date of the Event: 03/21/2019
+Name of the venue: Unipol Arena
+Venue location: Bologna (Italy)
+Date of the Event: 03/23/2019
+Name of the venue: Pala Alpitour
+Venue location: Turin (Italy)
+Date of the Event: 03/24/2019
+Name of the venue: Palau Sant Jordi
+Venue location: Barcelona (Spain)
+Date of the Event: 03/26/2019
+Name of the venue: Altice Arena
+Venue location: Lisbon (Portugal)
+Date of the Event: 03/28/2019
+Name of the venue: SUD DE FRANCE ARENA
+Venue location: Montpellier-de-medillan (France)
+Date of the Event: 03/30/2019
+Name of the venue: Hallenstadion
+Venue location: Zürich (Switzerland)
+Date of the Event: 03/31/2019
+Name of the venue: Wiener Stadthalle
+Venue location: Vienna (Austria)
+Date of the Event: 04/03/2019
+Name of the venue: SSE Hydro
+Venue location: Glasgow (United Kingdom)
+Date of the Event: 04/06/2019
+Name of the venue: Manchester Arena
+Venue location: Manchester (United Kingdom)
+Date of the Event: 04/07/2019
+Name of the venue: First Direct Arena
+Venue location: Leeds (United Kingdom)
+Date of the Event: 04/10/2019
+Name of the venue: 3Arena
+Venue location: Dublin (Ireland)
+Date of the Event: 04/13/2019
+Name of the venue: The O2 Arena
+Venue location: London (United Kingdom)
+Date of the Event: 04/16/2019
+Name of the venue: The O2 Arena
+Venue location: London (United Kingdom)
+Date of the Event: 04/17/2019
+Name of the venue: The O2 Arena
+Venue location: London (United Kingdom)
+Date of the Event: 04/19/2019
+Name of the venue: Moda Center
+Venue location: Portland (United States)
+Date of the Event: 06/12/2019
+Name of the venue: Rogers Arena
+Venue location: Vancouver (Canada)
+Date of the Event: 06/14/2019
+Name of the venue: Rogers Place
+Venue location: Edmonton (Canada)
+Date of the Event: 06/16/2019
+Name of the venue: Bell MTS Place
+Venue location: Winnipeg (Canada)
+Date of the Event: 06/19/2019
+Name of the venue: Xcel Energy Center
+Venue location: St Paul (United States)
+Date of the Event: 06/21/2019
+Name of the venue: Wells Fargo Arena
+Venue location: Des Moines (United States)
+Date of the Event: 06/22/2019
+Name of the venue: Allstate Arena
+Venue location: Chicago (United States)
+Date of the Event: 06/27/2019
+Name of the venue: Enterprise Center
+Venue location: Saint Louis (United States)
+Date of the Event: 06/30/2019
+Name of the venue: Pepsi Center
+Venue location: Denver (United States)
+Date of the Event: 07/02/2019
+Name of the venue: Staples Center
+Venue location: Los Angeles (United States)
+Date of the Event: 07/05/2019
+Name of the venue: Valley View Casino Center
+Venue location: San Diego (United States)
+Date of the Event: 07/08/2019
+Name of the venue: Gila River Arena
+Venue location: Glendale (United States)
+Date of the Event: 07/09/2019
+Name of the venue: Golden 1 Center
+Venue location: Sacramento (United States)
+Date of the Event: 07/11/2019
+Name of the venue: Oracle Arena
+Venue location: Oakland (United States)
+Date of the Event: 07/13/2019
+Name of the venue: Vivint Smart Home Arena
+Venue location: Salt Lake City (United States)
+Date of the Event: 07/16/2019
+Name of the venue: Sprint Center
+Venue location: Kansas City (United States)
+Date of the Event: 07/19/2019
+Name of the venue: BOK Center
+Venue location: Tulsa (United States)
+Date of the Event: 07/20/2019
+Name of the venue: American Airlines Center
+Venue location: Dallas (United States)
+Date of the Event: 07/22/2019
+Name of the venue: AT&T Center
+Venue location: San Antonio (United States)
+Date of the Event: 07/23/2019
+Name of the venue: Toyota Center
+Venue location: Houston (United States)
+Date of the Event: 07/25/2019
+Name of the venue: Amalie Arena
+Venue location: Tampa (United States)
+Date of the Event: 07/27/2019
+Name of the venue: AmericanAirlines Arena
+Venue location: Miami (United States)
+Date of the Event: 07/28/2019
+Name of the venue: Amway Center
+Venue location: Orlando (United States)
+Date of the Event: 07/30/2019
+Name of the venue: Philips Arena
+Venue location: Atlanta (United States)
+Date of the Event: 07/31/2019
+Name of the venue: Bridgestone Arena
+Venue location: Nashville (United States)
+Date of the Event: 08/02/2019
+Name of the venue: Little Caesars Arena
+Venue location: Detroit (United States)
+Date of the Event: 08/05/2019
+Name of the venue: PPG Paints Arena
+Venue location: Pittsburgh (United States)
+Date of the Event: 08/06/2019
+Name of the venue: Prudential Center
+Venue location: Newark (United States)
+Date of the Event: 08/10/2019
+Name of the venue: Capital One Arena
+Venue location: Washington (United States)
+Date of the Event: 08/13/2019
+Name of the venue: TD Garden
+Venue location: Boston (United States)
+Date of the Event: 08/15/2019
+Name of the venue: Bell Centre
+Venue location: Montreal (Canada)
+Date of the Event: 08/21/2019
+Name of the venue: Barclays Center
+Venue location: Brooklyn (United States)
+Date of the Event: 08/24/2019
+Name of the venue: Rogers Centre
+Venue location: Toronto (Canada)
+Date of the Event: 09/06/2019
+Name of the venue: Perth Arena 
+Venue location: Perth (Australia)
+Date of the Event: 10/23/2019
+Name of the venue: Adelaide Entertainment Centre
+Venue location: Adelaide (Australia)
+Date of the Event: 10/26/2019
+Name of the venue: Rod Laver Arena
+Venue location: Melbourne (Australia)
+Date of the Event: 10/29/2019
+Name of the venue: Rod Laver Arena
+Venue location: Melbourne (Australia)
+Date of the Event: 10/30/2019
+Name of the venue: Rod Laver Arena
+Venue location: Melbourne (Australia)
+Date of the Event: 10/31/2019
+Name of the venue: Qudos Bank Arena
+Venue location: Sydney (Australia)
+Date of the Event: 11/02/2019
+Name of the venue: Qudos Bank Arena
+Venue location: Sydney (Australia)
+Date of the Event: 11/03/2019
+Name of the venue: Entertainment Centre
+Venue location: Brisbane (Australia)
+Date of the Event: 11/06/2019
+Name of the venue: Spark Arena
+Venue location: Auckland (New Zealand)
+Date of the Event: 11/09/2019
+Name of the venue: Tauron Arena Krakow
+Venue location: Cracow (Poland)
+Date of the Event: 04/02/2019
+Name of the venue: Barclaycard Arena
+Venue location: Birmingham (United Kingdom)
+Date of the Event: 04/09/2019
+Name of the venue: 3Arena
+Venue location: Dublin (Ireland)
+Date of the Event: 04/14/2019
+----Info about a movie: batman
+* Title of the movie: Batman
+* Year the movie came out: 1989
+* IMDB Rating of the movie: 7.5
+* Rotten Tomatoes Rating of the movie: 72%
+* Country where the movie was produced: USA, UK
+* Language of the movie: English, French, Spanish
+* Plot of the movie: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+* Actors in the movie: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+----Spotify the song: whatever
+artists name is: "Imagine Dragons" 
+song name is: Whatever It Takes
+preview_url: null
+album name is: Evolve
+----Spotify the song: so what
+artists name is: "XXXTENTACION" 
+song name is: what are you so afraid of
+preview_url: https://p.scdn.co/mp3-preview/c7f9d2dea0e1e6cff7736ae842dea61ee2c5b009?cid=5936f6dc55f4481d8da5bd9886eff990
+album name is: SKINS
+----Spotify the song: so what pink
+artists name is: "P!nk" 
+song name is: So What
+preview_url: https://p.scdn.co/mp3-preview/29f5e690459b9fd4716efbae5d220c20f9dd5ebe?cid=5936f6dc55f4481d8da5bd9886eff990
+album name is: Funhouse
+----I don't need anything now: 
+----Looking for concerts: 
+----Info about a movie: batman
+----Info about a movie: batman
+* Title of the movie: Batman
+* Year the movie came out: 1989
+* IMDB Rating of the movie: 7.5
+* Rotten Tomatoes Rating of the movie: 72%
+* Country where the movie was produced: USA, UK
+* Language of the movie: English, French, Spanish
+* Plot of the movie: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+* Actors in the movie: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+----Info about a movie: batman
+* Title of the movie: Batman
+* Year the movie came out: 1989
+* IMDB Rating of the movie: 7.5
+* Rotten Tomatoes Rating of the movie: 72%
+* Country where the movie was produced: USA, UK
+* Language of the movie: English, French, Spanish
+* Plot of the movie: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+* Actors in the movie: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+----Info about a movie: 
+----Info about a movie: 
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+
+* Title of the movie: Mr. Nobody
+* Year the movie came out: 2009
+* IMDB Rating of the movie: 7.9
+* Rotten Tomatoes Rating of the movie: 67%
+* Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+* Language of the movie: English, Mohawk
+* Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+* Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+* Title of the movie: Mr. Nobody
+* Year the movie came out: 2009
+* IMDB Rating of the movie: 7.9
+* Rotten Tomatoes Rating of the movie: 67%
+* Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+* Language of the movie: English, Mohawk
+* Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+* Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+----Info about a movie: 
+----Info about a movie: 
+----Info about a movie: 
+----Info about a movie: 
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+
+* Title of the movie: Mr. Nobody
+* Year the movie came out: 2009
+* IMDB Rating of the movie: 7.9
+* Rotten Tomatoes Rating of the movie: 67%
+* Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+* Language of the movie: English, Mohawk
+* Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+* Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+* Title of the movie: Mr. Nobody
+* Year the movie came out: 2009
+* IMDB Rating of the movie: 7.9
+* Rotten Tomatoes Rating of the movie: 67%
+* Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+* Language of the movie: English, Mohawk
+* Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+* Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+* Title of the movie: Mr. Nobody
+* Year the movie came out: 2009
+* IMDB Rating of the movie: 7.9
+* Rotten Tomatoes Rating of the movie: 67%
+* Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+* Language of the movie: English, Mohawk
+* Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+* Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+* Title of the movie: Mr. Nobody
+* Year the movie came out: 2009
+* IMDB Rating of the movie: 7.9
+* Rotten Tomatoes Rating of the movie: 67%
+* Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+* Language of the movie: English, Mohawk
+* Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+* Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+----Spotify the song: 
+----Spotify the song: 
+----Spotify the song: 
+----Spotify the song: 
+----Spotify the song: 
+----Spotify the song: 
+----Spotify the song: 
+----Spotify the song: 
+artists name is: "Ace of Base" 
+song name is: The Sign
+preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=5936f6dc55f4481d8da5bd9886eff990
+album name is: The Sign (US Album) [Remastered]
+
+artists name is: "Ace of Base" 
+song name is: The Sign
+preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=5936f6dc55f4481d8da5bd9886eff990
+album name is: The Sign (US Album) [Remastered]
+
+artists name is: "Ace of Base" 
+song name is: The Sign
+preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=5936f6dc55f4481d8da5bd9886eff990
+album name is: The Sign (US Album) [Remastered]
+
+artists name is: "Ace of Base" 
+song name is: The Sign
+preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=5936f6dc55f4481d8da5bd9886eff990
+album name is: The Sign (US Album) [Remastered]
+
+artists name is: "Ace of Base" 
+song name is: The Sign
+preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=5936f6dc55f4481d8da5bd9886eff990
+album name is: The Sign (US Album) [Remastered]
+
+artists name is: "Ace of Base" 
+song name is: The Sign
+preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=5936f6dc55f4481d8da5bd9886eff990
+album name is: The Sign (US Album) [Remastered]
+
+artists name is: "Ace of Base" 
+song name is: The Sign
+preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=5936f6dc55f4481d8da5bd9886eff990
+album name is: The Sign (US Album) [Remastered]
+
+artists name is: "Ace of Base" 
+song name is: The Sign
+preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=5936f6dc55f4481d8da5bd9886eff990
+album name is: The Sign (US Album) [Remastered]
+
+----Surprise me: 
+----spotify-this-song: "I Want it That Way"
+----concert-this: pink
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Sunrise (United States)
+Date of the Event: 03/01/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Tampa (United States)
+Date of the Event: 03/03/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Charlotte (United States)
+Date of the Event: 03/09/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Columbia (United States)
+Date of the Event: 03/07/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Nashville (United States)
+Date of the Event: 03/10/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Jacksonville (United States)
+Date of the Event: 03/05/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Atlanta (United States)
+Date of the Event: 03/12/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Birmingham (United States)
+Date of the Event: 03/14/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Bossier City (United States)
+Date of the Event: 03/16/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: New Orleans (United States)
+Date of the Event: 03/17/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Houston (United States)
+Date of the Event: 03/19/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: San Antonio (United States)
+Date of the Event: 03/21/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Oklahoma City (United States)
+Date of the Event: 03/23/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Glendale (United States)
+Date of the Event: 03/30/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Dallas (United States)
+Date of the Event: 03/24/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Denver (United States)
+Date of the Event: 04/01/2019
+
+Name of the venue: Pepsi Live at Rogers Arena
+Venue location: Vancouver (Canada)
+Date of the Event: 04/06/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Portland (United States)
+Date of the Event: 04/08/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Salt Lake City (United States)
+Date of the Event: 04/03/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: San Jose (United States)
+Date of the Event: 04/17/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Los Angeles (United States)
+Date of the Event: 04/19/2019
+
+Name of the venue: Little Caesars Arena 
+Venue location: Detroit (United States)
+Date of the Event: 04/26/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Detroit (United States)
+Date of the Event: 04/27/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Indianapolis (United States)
+Date of the Event: 04/30/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Milwaukee (United States)
+Date of the Event: 05/02/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Fargo (United States)
+Date of the Event: 05/04/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: St Paul (United States)
+Date of the Event: 05/05/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Omaha (United States)
+Date of the Event: 05/07/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Lexington (United States)
+Date of the Event: 05/09/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Columbus (United States)
+Date of the Event: 05/11/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Toronto (Canada)
+Date of the Event: 05/13/2019
+
+Name of the venue: Scotiabank Arena
+Venue location: Toronto (Canada)
+Date of the Event: 05/14/2019
+
+Name of the venue: Bell Centre 
+Venue location: Montreal (Canada)
+Date of the Event: 05/17/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Montreal (Canada)
+Date of the Event: 05/18/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: New York (United States)
+Date of the Event: 05/21/2019
+
+Name of the venue: Madison Square Garden
+Venue location: New York (United States)
+Date of the Event: 05/22/2019
+
+Name of the venue: Johan Cruijff Stadium
+Venue location: Amsterdam (Netherlands)
+Date of the Event: 06/16/2019
+
+Name of the venue: RDS
+Venue location: Dublin (Ireland)
+Date of the Event: 06/18/2019
+
+Name of the venue: Principality Stadium
+Venue location: Cardiff (United Kingdom)
+Date of the Event: 06/20/2019
+
+Name of the venue: Hampden Park
+Venue location: Glasgow (United Kingdom)
+Date of the Event: 06/22/2019
+
+Name of the venue: Hampden Park
+Venue location: Glasgow (United Kingdom)
+Date of the Event: 06/23/2019
+
+Name of the venue: Anfield Stadium
+Venue location: Liverpool (United Kingdom)
+Date of the Event: 06/25/2019
+
+Name of the venue: Rock Werchter Festival 
+Venue location: Werchter (Belgium)
+Date of the Event: 06/27/2019
+
+Name of the venue: Wembley Stadium
+Venue location: London (United Kingdom)
+Date of the Event: 06/29/2019
+
+Name of the venue: Wembley Stadium
+Venue location: London (United Kingdom)
+Date of the Event: 06/30/2019
+
+Name of the venue: La Defense Arena
+Venue location: Paris (France)
+Date of the Event: 07/03/2019
+
+Name of the venue: Rhein Energie Stadion
+Venue location: Cologne (Germany)
+Date of the Event: 07/05/2019
+
+Name of the venue: Rhein Energie Stadion
+Venue location: Cologne (Germany)
+Date of the Event: 07/06/2019
+
+Name of the venue: Volksparkstadion
+Venue location: Hamburg (Germany)
+Date of the Event: 07/08/2019
+
+Name of the venue: Mercedes-Benz Arena
+Venue location: Stuttgart (Germany)
+Date of the Event: 07/10/2019
+
+Name of the venue: HDI Arena
+Venue location: Hannover (Germany)
+Date of the Event: 07/12/2019
+
+Name of the venue: Olympiastadion Berlin
+Venue location: Berlin (Germany)
+Date of the Event: 07/14/2019
+
+Name of the venue: PGE Narodowy Stadium
+Venue location: Warsaw (Poland)
+Date of the Event: 07/20/2019
+
+Name of the venue: Commerzbank Arena
+Venue location: Frankfurt (Germany)
+Date of the Event: 07/22/2019
+
+Name of the venue: Ernst Happel Stadium
+Venue location: Wien (Austria)
+Date of the Event: 07/24/2019
+
+Name of the venue: Olympiastadion Munchen
+Venue location: München (Germany)
+Date of the Event: 07/26/2019
+
+Name of the venue: Olympiastadion Munchen
+Venue location: München (Germany)
+Date of the Event: 07/27/2019
+
+Name of the venue: Letzigrund Stadium
+Venue location: Zürich (Switzerland)
+Date of the Event: 07/30/2019
+
+Name of the venue: Tele2 Arena
+Venue location: Stockholm (Sweden)
+Date of the Event: 08/03/2019
+
+Name of the venue: Telenor Arena
+Venue location: Oslo (Norway)
+Date of the Event: 08/05/2019
+
+Name of the venue: Stadium Casa Arena
+Venue location: Horsens (Denmark)
+Date of the Event: 08/07/2019
+
+Name of the venue: Rock in Rio
+Venue location: Rio De Janeiro (Brazil)
+Date of the Event: 10/05/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Sacramento (United States)
+Date of the Event: 04/10/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Las Vegas (United States)
+Date of the Event: 04/12/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Vancouver (Canada)
+Date of the Event: 04/05/2019
+
+----spotify-this-song: beautiful
+artists name is: "Bazzi" "Camila Cabello" 
+song name is: Beautiful (feat. Camila Cabello)
+preview_url: https://p.scdn.co/mp3-preview/f4919d159ccc28353ec076bdf5187c19a4f73dc8?cid=5936f6dc55f4481d8da5bd9886eff990
+album name is: Beautiful (feat. Camila Cabello)
+
+----spotify-this-song: you are beautiful
+artists name is: "James Blunt" 
+song name is: You're Beautiful
+preview_url: https://p.scdn.co/mp3-preview/1e9fe4947493daddd30a02f8e7b920eb413ce065?cid=5936f6dc55f4481d8da5bd9886eff990
+album name is: Back To Bedlam
+
+----spotify-this-song: 
+artists name is: "Ace of Base" 
+song name is: The Sign
+preview_url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=5936f6dc55f4481d8da5bd9886eff990
+album name is: The Sign (US Album) [Remastered]
+
+----movie-this: The Dark Knight
+* Title of the movie: The Dark Knight
+* Year the movie came out: 2008
+* IMDB Rating of the movie: 9.0
+* Rotten Tomatoes Rating of the movie: 94%
+* Country where the movie was produced: USA, UK
+* Language of the movie: English, Mandarin
+* Plot of the movie: When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+* Actors in the movie: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine
+
+----movie-thi: 
+----movie-this: 
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+
+* Title of the movie: Mr. Nobody
+* Year the movie came out: 2009
+* IMDB Rating of the movie: 7.9
+* Rotten Tomatoes Rating of the movie: 67%
+* Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+* Language of the movie: English, Mohawk
+* Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+* Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+----do-what-it-says: 
+----spotify-this-song: "I Want it That Way"
+artists name is: "Backstreet Boys" 
+song name is: I Want It That Way
+preview_url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=5936f6dc55f4481d8da5bd9886eff990
+album name is: The Hits--Chapter One
+
