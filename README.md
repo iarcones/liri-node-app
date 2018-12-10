@@ -5,8 +5,8 @@ LIRI is a Node Application based on commands that offers info about concerts, mo
 
 #### These instructions will get you a copy of the project up and running on your local machine.
 
-1. Copy to your folder liri.js, random.txt, gitignore, keys.js, package.json
-2. Run nmp install for request
+1. Clone the repository
+2. Run nmp install 
 3. Create a .env file with this format
 <p>
   <img src="Screen Shot 1.png" width="350" title="hover text">
@@ -14,18 +14,18 @@ LIRI is a Node Application based on commands that offers info about concerts, mo
 
 Replace the values into the .env file with your API keys (no quotes) once you have them.
 
-#### Go to npmjs for info to install:
+#### Go to npmjs if you want to know more about:
 
-1. request: https://www.npmjs.com/package/request
-2. moment: https://www.npmjs.com/package/request
-3. Node Spotify API: https://www.npmjs.com/package/node-spotify-api
-4. dotenv: https://www.npmjs.com/package/dotenv
+1. **request**: https://www.npmjs.com/package/request
+2. **moment**: https://www.npmjs.com/package/request
+3. **Node Spotify API**: https://www.npmjs.com/package/node-spotify-api
+4. **dotenv**: https://www.npmjs.com/package/dotenv
 
 #### Get your own API-id:
 
-1. Spotify: https://developer.spotify.com/documentation/web-api/
-2. OMDB: http://www.omdbapi.com/
-3. Bands in Town: http://www.artists.bandsintown.com/bandsintown-api
+1. **Spotify**: https://developer.spotify.com/documentation/web-api/
+2. **OMDB**: http://www.omdbapi.com/
+3. **Bands in Town**: http://www.artists.bandsintown.com/bandsintown-api
 
 
 ## Built With
