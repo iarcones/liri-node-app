@@ -1059,3 +1059,531 @@ song name is: I Want It That Way
 preview_url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=5936f6dc55f4481d8da5bd9886eff990
 album name is: The Hits--Chapter One
 
+----undefined: 
+----concert-this: pink
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Sunrise (United States)
+Date of the Event: 03/01/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Tampa (United States)
+Date of the Event: 03/03/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Jacksonville (United States)
+Date of the Event: 03/05/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Charlotte (United States)
+Date of the Event: 03/09/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Nashville (United States)
+Date of the Event: 03/10/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Columbia (United States)
+Date of the Event: 03/07/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Bossier City (United States)
+Date of the Event: 03/16/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Houston (United States)
+Date of the Event: 03/19/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: San Antonio (United States)
+Date of the Event: 03/21/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Oklahoma City (United States)
+Date of the Event: 03/23/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Dallas (United States)
+Date of the Event: 03/24/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Glendale (United States)
+Date of the Event: 03/30/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Denver (United States)
+Date of the Event: 04/01/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Salt Lake City (United States)
+Date of the Event: 04/03/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Vancouver (Canada)
+Date of the Event: 04/05/2019
+
+Name of the venue: Pepsi Live at Rogers Arena
+Venue location: Vancouver (Canada)
+Date of the Event: 04/06/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Portland (United States)
+Date of the Event: 04/08/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Sacramento (United States)
+Date of the Event: 04/10/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Las Vegas (United States)
+Date of the Event: 04/12/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Birmingham (United States)
+Date of the Event: 03/14/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Los Angeles (United States)
+Date of the Event: 04/19/2019
+
+Name of the venue: Little Caesars Arena 
+Venue location: Detroit (United States)
+Date of the Event: 04/26/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Detroit (United States)
+Date of the Event: 04/27/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Indianapolis (United States)
+Date of the Event: 04/30/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Milwaukee (United States)
+Date of the Event: 05/02/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Fargo (United States)
+Date of the Event: 05/04/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: St Paul (United States)
+Date of the Event: 05/05/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Omaha (United States)
+Date of the Event: 05/07/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Lexington (United States)
+Date of the Event: 05/09/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Columbus (United States)
+Date of the Event: 05/11/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Toronto (Canada)
+Date of the Event: 05/13/2019
+
+Name of the venue: Scotiabank Arena
+Venue location: Toronto (Canada)
+Date of the Event: 05/14/2019
+
+Name of the venue: Bell Centre 
+Venue location: Montreal (Canada)
+Date of the Event: 05/17/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Montreal (Canada)
+Date of the Event: 05/18/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: New York (United States)
+Date of the Event: 05/21/2019
+
+Name of the venue: Madison Square Garden
+Venue location: New York (United States)
+Date of the Event: 05/22/2019
+
+Name of the venue: Johan Cruijff Stadium
+Venue location: Amsterdam (Netherlands)
+Date of the Event: 06/16/2019
+
+Name of the venue: RDS
+Venue location: Dublin (Ireland)
+Date of the Event: 06/18/2019
+
+Name of the venue: Principality Stadium
+Venue location: Cardiff (United Kingdom)
+Date of the Event: 06/20/2019
+
+Name of the venue: Hampden Park
+Venue location: Glasgow (United Kingdom)
+Date of the Event: 06/22/2019
+
+Name of the venue: Hampden Park
+Venue location: Glasgow (United Kingdom)
+Date of the Event: 06/23/2019
+
+Name of the venue: Anfield Stadium
+Venue location: Liverpool (United Kingdom)
+Date of the Event: 06/25/2019
+
+Name of the venue: Rock Werchter Festival 
+Venue location: Werchter (Belgium)
+Date of the Event: 06/27/2019
+
+Name of the venue: Wembley Stadium
+Venue location: London (United Kingdom)
+Date of the Event: 06/29/2019
+
+Name of the venue: Wembley Stadium
+Venue location: London (United Kingdom)
+Date of the Event: 06/30/2019
+
+Name of the venue: La Defense Arena
+Venue location: Paris (France)
+Date of the Event: 07/03/2019
+
+Name of the venue: Rhein Energie Stadion
+Venue location: Cologne (Germany)
+Date of the Event: 07/05/2019
+
+Name of the venue: Rhein Energie Stadion
+Venue location: Cologne (Germany)
+Date of the Event: 07/06/2019
+
+Name of the venue: Volksparkstadion
+Venue location: Hamburg (Germany)
+Date of the Event: 07/08/2019
+
+Name of the venue: Mercedes-Benz Arena
+Venue location: Stuttgart (Germany)
+Date of the Event: 07/10/2019
+
+Name of the venue: HDI Arena
+Venue location: Hannover (Germany)
+Date of the Event: 07/12/2019
+
+Name of the venue: Olympiastadion Berlin
+Venue location: Berlin (Germany)
+Date of the Event: 07/14/2019
+
+Name of the venue: PGE Narodowy Stadium
+Venue location: Warsaw (Poland)
+Date of the Event: 07/20/2019
+
+Name of the venue: Commerzbank Arena
+Venue location: Frankfurt (Germany)
+Date of the Event: 07/22/2019
+
+Name of the venue: Ernst Happel Stadium
+Venue location: Wien (Austria)
+Date of the Event: 07/24/2019
+
+Name of the venue: Olympiastadion Munchen
+Venue location: München (Germany)
+Date of the Event: 07/26/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: San Jose (United States)
+Date of the Event: 04/17/2019
+
+Name of the venue: Letzigrund Stadium
+Venue location: Zürich (Switzerland)
+Date of the Event: 07/30/2019
+
+Name of the venue: Tele2 Arena
+Venue location: Stockholm (Sweden)
+Date of the Event: 08/03/2019
+
+Name of the venue: Telenor Arena
+Venue location: Oslo (Norway)
+Date of the Event: 08/05/2019
+
+Name of the venue: Stadium Casa Arena
+Venue location: Horsens (Denmark)
+Date of the Event: 08/07/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: Atlanta (United States)
+Date of the Event: 03/12/2019
+
+Name of the venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue location: New Orleans (United States)
+Date of the Event: 03/17/2019
+
+Name of the venue: Rock in Rio
+Venue location: Rio De Janeiro (Brazil)
+Date of the Event: 10/05/2019
+
+Name of the venue: Olympiastadion Munchen
+Venue location: München (Germany)
+Date of the Event: 07/27/2019
+
+----concert-this: Elton John
+Name of the venue: Toyota Center
+Venue location: Houston (United States)
+Date of the Event: 12/08/2018
+
+Name of the venue: Toyota Center
+Venue location: Houston (United States)
+Date of the Event: 12/09/2018
+
+Name of the venue: Taco Bell Arena
+Venue location: Boise (United States)
+Date of the Event: 01/11/2019
+
+Name of the venue: Moda Center
+Venue location: Portland (United States)
+Date of the Event: 01/12/2019
+
+Name of the venue: Save Mart Center
+Venue location: Fresno (United States)
+Date of the Event: 01/15/2019
+
+Name of the venue: Golden 1 Center
+Venue location: Sacramento (United States)
+Date of the Event: 01/16/2019
+
+Name of the venue: Oracle Arena
+Venue location: Oakland (United States)
+Date of the Event: 01/18/2019
+
+Name of the venue: SAP Center At San Jose
+Venue location: San Jose (United States)
+Date of the Event: 01/19/2019
+
+Name of the venue: Staples Center
+Venue location: Los Angeles (United States)
+Date of the Event: 01/22/2019
+
+Name of the venue: Staples Center
+Venue location: Los Angeles (United States)
+Date of the Event: 01/23/2019
+
+Name of the venue: Gila River Arena
+Venue location: Glendale (United States)
+Date of the Event: 01/26/2019
+
+Name of the venue: Valley View Casino Center
+Venue location: San Diego (United States)
+Date of the Event: 01/29/2019
+
+Name of the venue: Pepsi Center
+Venue location: Denver (United States)
+Date of the Event: 02/07/2019
+
+Name of the venue: BOK Center
+Venue location: Tulsa (United States)
+Date of the Event: 02/09/2019
+
+Name of the venue: CenturyLink Center Omaha
+Venue location: Omaha (United States)
+Date of the Event: 02/12/2019
+
+Name of the venue: Sprint Center
+Venue location: Kansas City (United States)
+Date of the Event: 02/13/2019
+
+Name of the venue: Madison Square Garden
+Venue location: New York (United States)
+Date of the Event: 02/18/2019
+
+Name of the venue: Wisconsin Entertainment and Sports Center
+Venue location: Milwaukee (United States)
+Date of the Event: 02/19/2019
+
+Name of the venue: Target Center
+Venue location: Minneapolis (United States)
+Date of the Event: 02/21/2019
+
+Name of the venue: U.S. Bank Arena
+Venue location: Cincinnati (United States)
+Date of the Event: 02/27/2019
+
+Name of the venue: Times Union Center
+Venue location: Albany (United States)
+Date of the Event: 03/01/2019
+
+Name of the venue: Barclays Center
+Venue location: Brooklyn (United States)
+Date of the Event: 03/08/2019
+
+Name of the venue: American Airlines Center
+Venue location: Dallas (United States)
+Date of the Event: 12/15/2018
+
+Name of the venue: Colonial Life Arena
+Venue location: Columbia (United States)
+Date of the Event: 03/13/2019
+
+Name of the venue: Jacksonville Veterans Memorial Arena
+Venue location: Jacksonville (United States)
+Date of the Event: 03/15/2019
+
+Name of the venue: Tauron Arena
+Venue location: Kraków (Poland)
+Date of the Event: 05/04/2019
+
+Name of the venue: O2 Arena
+Venue location: Prague (Czech Republic)
+Date of the Event: 05/07/2019
+
+Name of the venue: Ziggo Dome
+Venue location: Nieuw-amsterdam (Netherlands)
+Date of the Event: 05/15/2019
+
+Name of the venue: Royal Arena
+Venue location: Copenhagen (Denmark)
+Date of the Event: 05/18/2019
+
+Name of the venue: Scandinavium
+Venue location: Goteborg (Sweden)
+Date of the Event: 05/19/2019
+
+Name of the venue: American Airlines Center
+Venue location: Dallas (United States)
+Date of the Event: 12/14/2018
+
+Name of the venue: PNC Arena
+Venue location: Raleigh (United States)
+Date of the Event: 03/12/2019
+
+Name of the venue: AT&T Center
+Venue location: San Antonio (United States)
+Date of the Event: 12/12/2018
+
+----concert-this: Elton John
+Name of the venue: Toyota Center
+Venue location: Houston (United States)
+Date of the Event: 12/08/2018
+
+Name of the venue: American Airlines Center
+Venue location: Dallas (United States)
+Date of the Event: 12/14/2018
+
+Name of the venue: Taco Bell Arena
+Venue location: Boise (United States)
+Date of the Event: 01/11/2019
+
+Name of the venue: Moda Center
+Venue location: Portland (United States)
+Date of the Event: 01/12/2019
+
+Name of the venue: Save Mart Center
+Venue location: Fresno (United States)
+Date of the Event: 01/15/2019
+
+Name of the venue: Golden 1 Center
+Venue location: Sacramento (United States)
+Date of the Event: 01/16/2019
+
+Name of the venue: Oracle Arena
+Venue location: Oakland (United States)
+Date of the Event: 01/18/2019
+
+Name of the venue: SAP Center At San Jose
+Venue location: San Jose (United States)
+Date of the Event: 01/19/2019
+
+Name of the venue: Staples Center
+Venue location: Los Angeles (United States)
+Date of the Event: 01/22/2019
+
+Name of the venue: Staples Center
+Venue location: Los Angeles (United States)
+Date of the Event: 01/23/2019
+
+Name of the venue: American Airlines Center
+Venue location: Dallas (United States)
+Date of the Event: 12/15/2018
+
+Name of the venue: Valley View Casino Center
+Venue location: San Diego (United States)
+Date of the Event: 01/29/2019
+
+Name of the venue: Pepsi Center
+Venue location: Denver (United States)
+Date of the Event: 02/07/2019
+
+Name of the venue: BOK Center
+Venue location: Tulsa (United States)
+Date of the Event: 02/09/2019
+
+Name of the venue: CenturyLink Center Omaha
+Venue location: Omaha (United States)
+Date of the Event: 02/12/2019
+
+Name of the venue: Sprint Center
+Venue location: Kansas City (United States)
+Date of the Event: 02/13/2019
+
+Name of the venue: Madison Square Garden
+Venue location: New York (United States)
+Date of the Event: 02/18/2019
+
+Name of the venue: Wisconsin Entertainment and Sports Center
+Venue location: Milwaukee (United States)
+Date of the Event: 02/19/2019
+
+Name of the venue: Target Center
+Venue location: Minneapolis (United States)
+Date of the Event: 02/21/2019
+
+Name of the venue: U.S. Bank Arena
+Venue location: Cincinnati (United States)
+Date of the Event: 02/27/2019
+
+Name of the venue: Times Union Center
+Venue location: Albany (United States)
+Date of the Event: 03/01/2019
+
+Name of the venue: Barclays Center
+Venue location: Brooklyn (United States)
+Date of the Event: 03/08/2019
+
+Name of the venue: PNC Arena
+Venue location: Raleigh (United States)
+Date of the Event: 03/12/2019
+
+Name of the venue: Colonial Life Arena
+Venue location: Columbia (United States)
+Date of the Event: 03/13/2019
+
+Name of the venue: Jacksonville Veterans Memorial Arena
+Venue location: Jacksonville (United States)
+Date of the Event: 03/15/2019
+
+Name of the venue: Tauron Arena
+Venue location: Kraków (Poland)
+Date of the Event: 05/04/2019
+
+Name of the venue: Gila River Arena
+Venue location: Glendale (United States)
+Date of the Event: 01/26/2019
+
+Name of the venue: Ziggo Dome
+Venue location: Nieuw-amsterdam (Netherlands)
+Date of the Event: 05/15/2019
+
+Name of the venue: Royal Arena
+Venue location: Copenhagen (Denmark)
+Date of the Event: 05/18/2019
+
+Name of the venue: Scandinavium
+Venue location: Goteborg (Sweden)
+Date of the Event: 05/19/2019
+
+Name of the venue: Toyota Center
+Venue location: Houston (United States)
+Date of the Event: 12/09/2018
+
+Name of the venue: O2 Arena
+Venue location: Prague (Czech Republic)
+Date of the Event: 05/07/2019
+
+Name of the venue: AT&T Center
+Venue location: San Antonio (United States)
+Date of the Event: 12/12/2018
+
